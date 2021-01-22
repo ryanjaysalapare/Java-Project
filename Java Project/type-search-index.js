@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Elves"},{"p":"<Unnamed>","l":"FakeWorld"},{"p":"<Unnamed>","l":"Fighter"},{"p":"<Unnamed>","l":"Hobbits"},{"p":"<Unnamed>","l":"Humanoid"},{"p":"<Unnamed>","l":"Humans"},{"p":"<Unnamed>","l":"Wizard"}]
